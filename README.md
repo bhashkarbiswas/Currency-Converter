@@ -1,2 +1,2 @@
 # Currency-Converter
-Created with CodeSandbox
+Created an online currency converter using HTML, CSS & JS!
